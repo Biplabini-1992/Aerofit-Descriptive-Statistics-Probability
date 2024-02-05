@@ -9,17 +9,25 @@ The market research team at AeroFit wants to identify the characteristics of the
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during the prior three months.
 ### Source:
-Please check the dataset at: "Dataset Link"
+Please check the dataset at: "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749"
 
 ### Feature Information:
 Product: Product Purchased KP281, KP481, or KP781
+
 Age: In years
+
 Gender: Male/Female
+
 Education: in years
+
 MaritalStatus: single or partnered
+
 Usage: average number of times the customer plans to use the treadmill each week
+
 Income: annual income (in $)
+
 Fitness: self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape
+
 Miles: average number of miles the customer expects to walk/run each week
 
 ### Product Portfolio:
